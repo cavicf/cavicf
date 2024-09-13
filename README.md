@@ -4,10 +4,14 @@
 - 🌱 Estudando C e Python
 - 😄 Pronouns: ela/dela
 
-<div align="center" style="display: flex; justify-content: center; align-items: center;">
+<div style="display: flex; justify-content: center;">
   <a href="https://github.com/cavicf">
-    <img height="200em" src="https://github-readme-stats.vercel.app/api?username=cavicf&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cavicf&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   </a>
+  <a href="https://github.com/cavicf">
+    <img height="180em" width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cavicf&layout=compact&langs_count=7&theme=dracula"/>
+  </a>
+</div>
  
 
 <div style="display: inline_block"><br>
