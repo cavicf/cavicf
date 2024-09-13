@@ -17,9 +17,6 @@
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
 </div>
 
-<!-- Adicione o gif aqui com estilo fixo -->
-<img src="https://i.picasion.com/pic92/35bc5cb4dd1746cac9fdaca6595293da.gif" width="100" height="100" style="position: fixed; bottom: 10px; right: 10px;" />
-
 ##
 
 <div> 
