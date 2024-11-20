@@ -1,6 +1,7 @@
 ## Olá!! Eu sou a Camily Victal
 
-- 👩🏾‍🎓 Hoje estou cursando Sistemas de Informação
+- 🎓 Formada em Análise e Desenvolvimento de Sistemas pela Universidade São Francisco
+- 👩🏾‍🎓 Hoje estou cursando Sistemas de Informação na Universidade Federal de Itajubá
 - 👩🏾‍💻 Estudando C e Python
 - 🙋🏾‍♀️ Pronouns: ela/dela
 
