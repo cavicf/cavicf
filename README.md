@@ -3,7 +3,6 @@
 - 🎓 Formada em Análise e Desenvolvimento de Sistemas pela Universidade São Francisco
 - 👩🏾‍🎓 Hoje estou cursando Sistemas de Informação na Universidade Federal de Itajubá
 - 👩🏾‍💻 Estudando C e Python
-- 🙋🏾‍♀️ Pronouns: ela/dela
 
 <div style="display: flex; justify-content: center; flex-wrap: nowrap;">
   <a href="https://github.com/Cavicf" style="margin-right: 10px;">
