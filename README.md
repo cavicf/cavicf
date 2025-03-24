@@ -1,8 +1,12 @@
-## Olá!! Eu sou a Camily Victal
+👋 Olá! Meu nome é Camily Victal Finamor, tenho 20 anos e sou apaixonada por tecnologia e inovação!
 
-- 🎓 Formada em Análise e Desenvolvimento de Sistemas pela Universidade São Francisco
-- 👩🏾‍🎓 Hoje estou cursando Sistemas de Informação na Universidade Federal de Itajubá
-- 👩🏾‍💻 Estudando JavaScript
+💻 Sou graduada em Tecnologia em Análise e Desenvolvimento de Sistemas pela Universidade São Francisco e atualmente curso Sistemas de Informação na Universidade Federal de Itajubá (UNIFEI). 
+
+🚀 Atualmente, estou estudando JavaScript, HTML e CSS, explorando o desenvolvimento web e aprimorando minhas habilidades na criação de interfaces e experiências interativas. Além disso, tenho noções de Git, o que me permite versionar e colaborar em projetos de forma eficiente. Também possuo experiências acadêmicas com C e Python e estou sempre em busca de novos desafios e oportunidades para expandir meu conhecimento na área.
+
+📌 Procuro uma oportunidade de estágio ou emprego onde eu possa aplicar minhas habilidades e expandir meus conhecimentos. Sou uma profissional dedicada, curiosa e comprometida com a qualidade dos projetos em que atuo.
+
+🤝 Vamos conversar? Adoro trocar ideias sobre tecnologia, desenvolvimento de software e inovação!
 
 <div style="display: flex; justify-content: center; flex-wrap: nowrap;">
   <a href="https://github.com/Cavicf" style="margin-right: 10px;">
