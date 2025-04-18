@@ -2,9 +2,9 @@
 
 💻 Sou graduada em Tecnologia em Análise e Desenvolvimento de Sistemas pela Universidade São Francisco e atualmente curso Sistemas de Informação na Universidade Federal de Itajubá (UNIFEI). 
 
-🚀 Atualmente, estou estudando JavaScript, HTML e CSS, explorando o desenvolvimento web e aprimorando minhas habilidades na criação de interfaces e experiências interativas. Além disso, tenho noções de Git, o que me permite versionar e colaborar em projetos de forma eficiente. Também possuo experiências acadêmicas com C e Python e estou sempre em busca de novos desafios e oportunidades para expandir meu conhecimento na área.
+🚀 Estou explorando o Desenvolvimento Web por meio do curso “Desenvolvimento Web - Programador BR”, estudando tecnologias como JavaScript, HTML, CSS, React, Node.js, MongoDB e Git. Tenho me dedicado especialmente à criação de interfaces interativas e ao desenvolvimento de aplicações web, buscando sempre aliar estética, usabilidade e boas práticas de código.
 
-📌 Procuro uma oportunidade de estágio ou emprego onde eu possa aplicar minhas habilidades e expandir meus conhecimentos. Sou uma profissional dedicada, curiosa e comprometida com a qualidade dos projetos em que atuo.
+📌 Busco uma vaga de estágio em Desenvolvimento Web para aplicar meus conhecimentos, crescer profissionalmente e contribuir com projetos reais. Venho me dedicando a projetos pessoais que me proporcionam prática constante, além de desenvolver habilidades como autonomia, organização e resolução de problemas.
 
 🤝 Vamos conversar? Adoro trocar ideias sobre tecnologia, desenvolvimento de software e inovação!
 
