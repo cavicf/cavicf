@@ -2,15 +2,11 @@
 
  Olá! Meu nome é Camily Victal Finamor, tenho 20 anos e sou apaixonada por tecnologia e inovação!
 
- Sou graduada em Tecnologia em Análise e Desenvolvimento de Sistemas pela Universidade São Francisco e atualmente curso Sistemas de Informação na Universidade Federal de Itajubá (UNIFEI). 
+Estudante dedicada e motivada, graduada em Análise e Desenvolvimento de Sistemas pela Universidade São Francisco e atualmente cursando Sistemas de Informação na UNIFEI, com previsão de formatura em 2028. Participo do Bootcamp Santander Back-End com Python e atuo como trainee na diretoria de projetos da empresa júnior byron.solutions. Tenho estudado e praticado com tecnologias como JavaScript, Tailwind, Python e Next.js.
 
- Estou explorando o Desenvolvimento Web por meio do curso “Desenvolvimento Web - Programador BR”, estudando tecnologias como JavaScript, HTML, CSS, React, Node.js, MongoDB e Git. Tenho me dedicado 
- especialmente à criação de interfaces interativas e ao desenvolvimento de aplicações web, buscando sempre aliar estética, usabilidade e boas práticas de código.
+Possuo conhecimentos em versionamento com Git, metodologias ágeis e boas práticas de código. Em projetos pessoais e acadêmicos, desenvolvi habilidades como comunicação, organização, trabalho em equipe e resolução de problemas.
 
- Tenho me dedicado a projetos pessoais que proporcionam prática constante e desenvolvem habilidades como autonomia, organização e resolução de problemas.
- Abaixo, destaco alguns repositórios relevantes que refletem meu progresso, como o curso de Desenvolvimento Web, projetos práticos e trabalhos acadêmicos desenvolvidos ao longo da 
- graduação.
-
+Busco minha primeira oportunidade como estagiária em desenvolvimento. Sou proativa, comprometida com o aprendizado contínuo e mantenho projetos atualizados aqui no GitHub que refletem meu progresso e dedicação à área!
 
 
 ## 📈 Estatísticas do GitHub	
