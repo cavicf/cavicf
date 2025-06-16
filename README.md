@@ -1,6 +1,6 @@
 # 👩‍💻 Sobre Mim
 
- Olá! Meu nome é Camily Victal Finamor, tenho 20 anos e sou apaixonada por tecnologia e inovação!
+ Olá! Meu nome é Camily Victal Finamor, tenho 21 anos e sou apaixonada por tecnologia e inovação!
 
 Estudante dedicada e motivada, graduada em Análise e Desenvolvimento de Sistemas pela Universidade São Francisco e atualmente cursando Sistemas de Informação na UNIFEI, com previsão de formatura em 2028. Participo do Bootcamp Santander Back-End com Python e atuo como trainee na diretoria de projetos da empresa júnior byron.solutions. Tenho estudado e praticado com tecnologias como JavaScript, Tailwind, Python e Next.js.
 
