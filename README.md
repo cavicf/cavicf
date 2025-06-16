@@ -2,7 +2,7 @@
 
  Olá! Meu nome é Camily Victal Finamor, tenho 21 anos e sou apaixonada por tecnologia e inovação!
 
-Estudante dedicada e motivada, graduada em Análise e Desenvolvimento de Sistemas pela Universidade São Francisco e atualmente cursando Sistemas de Informação na UNIFEI, com previsão de formatura em 2028. Participo do Bootcamp Santander Back-End com Python e atuo como trainee na diretoria de projetos da empresa júnior byron.solutions. Tenho estudado e praticado com tecnologias como JavaScript, Tailwind, Python e Next.js.
+Estudante dedicada e motivada, graduada em Análise e Desenvolvimento de Sistemas pela Universidade São Francisco e atualmente cursando Sistemas de Informação na UNIFEI, com previsão de formatura em 2028. Participo do Bootcamp Santander Back-End com Python e atuo como trainee na diretoria de projetos da empresa júnior byron.solutions. Tenho estudado e praticado com tecnologias como JavaScript, Tailwind, TypeScript, Python e Next.js.
 
 Possuo conhecimentos em versionamento com Git, metodologias ágeis e boas práticas de código. Em projetos pessoais e acadêmicos, desenvolvi habilidades como comunicação, organização, trabalho em equipe e resolução de problemas.
 
@@ -31,6 +31,7 @@ Aqui estão algumas das principais tecnologias e linguagens que venho utilizando
   <img align="center" alt="Camy-JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
   <img align="center" alt="Camy-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Camy-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+  <img align="center" alt="Camy-Typescript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
   <img align="center" alt="Camy-Next" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
  <img align="center" alt="Camy-Tailwind" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg">
  <img align="center" alt="Camy-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
